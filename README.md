@@ -1,3 +1,7 @@
+#Deprecated
+
+See [iOS-Projects-By-Projects](https://github.com/2hf/iOS-Projects-By-Projects)
+
 # Preface
 
 > "The way to get started is to quit talking and begin doing." -- Walt Disney
