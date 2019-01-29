@@ -1,6 +1,6 @@
 #Deprecated
 
-See [iOS In Action](https://github.com/2hf/ios-in-action)
+See [iOS In Action](https://github.com/zh-f/ios-in-action)
 
 # Preface
 
