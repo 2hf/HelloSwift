@@ -1,6 +1,6 @@
 #Deprecated
 
-See [iOS-Projects-By-Projects](https://github.com/2hf/iOS-Projects-By-Projects)
+See [iOS In Action](https://github.com/2hf/ios-in-action)
 
 # Preface
 
